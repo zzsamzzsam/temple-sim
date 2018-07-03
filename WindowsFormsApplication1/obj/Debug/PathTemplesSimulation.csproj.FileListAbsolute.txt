@@ -1,0 +1,9 @@
+C:\Users\WhiteHeart\Desktop\poe\templesim\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\WhiteHeart\Desktop\poe\templesim\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\WhiteHeart\Desktop\poe\templesim\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\WhiteHeart\Desktop\poe\templesim\WindowsFormsApplication1\obj\Debug\PathTemplesSimulation.csprojResolveAssemblyReference.cache
+C:\Users\WhiteHeart\Desktop\poe\templesim\WindowsFormsApplication1\obj\Debug\PTS.Form.resources
+C:\Users\WhiteHeart\Desktop\poe\templesim\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\WhiteHeart\Desktop\poe\templesim\WindowsFormsApplication1\obj\Debug\PathTemplesSimulation.csproj.GenerateResource.Cache
+C:\Users\WhiteHeart\Desktop\poe\templesim\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\WhiteHeart\Desktop\poe\templesim\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
